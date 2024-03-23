@@ -2,7 +2,9 @@
   Welcome to my GitHub profile.</h1>
 <h3 align="center">As someone passionate about Cloud and DevOps</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhideore16&label=Profile%20views&color=0e75b6&style=flat" alt="abhideore16" /> </p >
-                                                                                                                                                                                                                                                                                               
+<img align="right" alt="coding" width="400" src="https://clipclip.com/wp-content/uploads/elementor/thumbs/cc-programmer-2-q8lnh9t1o9xqpuckc9fk20k0z1d1ncng6rl9gtc7wg.png?x59089"
+
+                                                                                                                                                                                                                                                                       
 -🌱 I’m currently learning **AWS,DEVOPS , LINUX**
 - 📫 How to reach me **abhishekdeore66@gmail.com**
 - ⚡ Fun fact **Cricket: Whether it's cheering for my favorite team or discussing the latest cricket strategies, I'm a die-hard cricket enthusiast. Feel free to chat cricket anytime!
