@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhideore16!
-  Welcome to my GitHub profile.</h1>
+<h1 align="center"> Hi Welcome to my GitHub profile.</h1>
 <h3 align="center">As someone passionate about Cloud and DevOps</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhideore16&label=Profile%20views&color=0e75b6&style=flat" alt="abhideore16" /> </p >
 <img align="right" alt="coding" width="400" src="https://clipclip.com/wp-content/uploads/elementor/thumbs/cc-programmer-2-q8lnh9t1o9xqpuckc9fk20k0z1d1ncng6rl9gtc7wg.png?x59089"
